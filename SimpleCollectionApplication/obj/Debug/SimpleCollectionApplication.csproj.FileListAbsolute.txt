@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SimpleCollectionApplication\SimpleCollectionApplication\bin\Debug\SimpleCollectionApplication.exe.config
+C:\Users\Admin\source\repos\SimpleCollectionApplication\SimpleCollectionApplication\bin\Debug\SimpleCollectionApplication.exe
+C:\Users\Admin\source\repos\SimpleCollectionApplication\SimpleCollectionApplication\bin\Debug\SimpleCollectionApplication.pdb
+C:\Users\Admin\source\repos\SimpleCollectionApplication\SimpleCollectionApplication\obj\Debug\SimpleCollectionApplication.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleCollectionApplication\SimpleCollectionApplication\obj\Debug\SimpleCollectionApplication.Form1.resources
+C:\Users\Admin\source\repos\SimpleCollectionApplication\SimpleCollectionApplication\obj\Debug\SimpleCollectionApplication.Properties.Resources.resources
+C:\Users\Admin\source\repos\SimpleCollectionApplication\SimpleCollectionApplication\obj\Debug\SimpleCollectionApplication.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SimpleCollectionApplication\SimpleCollectionApplication\obj\Debug\SimpleCollectionApplication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleCollectionApplication\SimpleCollectionApplication\obj\Debug\SimpleCollectionApplication.exe
+C:\Users\Admin\source\repos\SimpleCollectionApplication\SimpleCollectionApplication\obj\Debug\SimpleCollectionApplication.pdb
+C:\Users\Admin\source\repos\SimpleCollectionApplication\SimpleCollectionApplication\obj\Debug\SimpleCollectionApplication.Form2.resources
